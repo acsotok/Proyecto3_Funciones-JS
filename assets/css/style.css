@@ -1,0 +1,21 @@
+/* Primera parte */
+
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+}
+
+
+
+/* Segunda parte */
+
+.contenedor2{
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+}
+
+#key2{
+    margin-left: 50px;
+}
